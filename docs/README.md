@@ -33,7 +33,7 @@
         - [Dockerfile](zh-cn/Docker/Dockerfile.md)
     - Linux
         - [常用命令](zh-cn/Linux/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
-- 从那（log4j）以后....
+- 从那（log4j）以后....(漏洞复现只是爱好，可以交流复现环境、方法，切勿用于非法操作！)
     - [CVE-2022-22947(spring-cloud-gateway router)](zh-cn/CVE复现/CVE-2022-22947.md)
     - [CVE-2022-22965(spring-framework class)](zh-cn/CVE复现/CVE-2022-22965.md)
 
