@@ -5,16 +5,16 @@
 > 所以在笔录首页最前面还是给他们冠个名😁😁😁......
 
 # 社交网站
-> 本笔记汇集了其他网站的文章（暂时还没有整理完...）
+> 本笔记汇集了其他网站的文章
 >
 > 本笔录[源码](https://github.com/Ch-BlackR/blackr-record)在github上面（码云的要实名认证😑......）
 - [简书](https://www.jianshu.com/u/ee3350ee4593)
 - [码云](https://gitee.com/BlackT_JAVA)
 - [Github](https://github.com/Ch-BlackR)
 
-# 笔录目录
+# 笔录目录（暂时还没有整理完...）
 
-- 设计模式与SpringSecurity的那些事
+- 设计模式与SpringSecurity的那些事[源码在码云](https://gitee.com/BlackT_JAVA/simple-design)
     - [责任链模式](zh-cn/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F.md)
     - [观察者模式](zh-cn/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md)
     - [代理模式](zh-cn/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F.md)
