@@ -20,3 +20,12 @@
 - 从那（log4j）以后....
     - [CVE-2022-22947(spring-cloud-gateway router)](zh-cn/CVE复现/CVE-2022-22947.md)
     - [CVE-2022-22965(spring-framework class)](zh-cn/CVE复现/CVE-2022-22965.md)
+- 农民工白嫖篇（企业请支持付费模式）
+    - [画板](https://board.oktangle.com/)
+    - [Gogs_git私服](https://gogs.io/docs/installation)
+    - [Github Pages_静态网站托管](https://pages.github.com/)
+    - [Cloudflare_DNS加速](https://dash.cloudflare.com/)
+    - [Typora主题](https://madmaxchow.gitee.io/vlook/index.html)
+    - [BestTrace_IP链路追踪](https://www.ipip.net/)
+    - [Jetbra全家桶2022.1](https://jetbra.in/ea105d66-1095-41c8-aefd-17766da42114.html)
+    - [ProcessOn_免费在线流程图思维导图](https://processon.com/)
